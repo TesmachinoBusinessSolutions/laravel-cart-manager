@@ -5,6 +5,11 @@
 [![Build Status](https://travis-ci.com/freshbitsweb/laravel-cart-manager.svg?branch=master)](https://travis-ci.com/freshbitsweb/laravel-cart-manager)
 [![Buy us a tree](https://img.shields.io/badge/Buy%20me%20a%20tree-%F0%9F%8C%B3-lightgreen?style=flat-square)](https://offset.earth/treeware?gift-trees)
 
+# This is a forked repo
+[Source](https://github.com/freshbitsweb/laravel-cart-manager#table-of-contents) 
+
+#Credits to Author
+
 # Cart Manager (Laravel 5.5 - Laravel 6.0)
 Let's make the cart management with Laravel a breeze.
 
