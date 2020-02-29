@@ -8,7 +8,10 @@
 # This is a forked repo
 [Source](https://github.com/freshbitsweb/laravel-cart-manager#table-of-contents) 
 
-#Credits to Author
+# Credits to Author
+
+# Demo of the Cart
+[Link](https://github.com/freshbitsweb/laravel-cart-manager-demo)
 
 # Cart Manager (Laravel 5.5 - Laravel 6.0)
 Let's make the cart management with Laravel a breeze.
